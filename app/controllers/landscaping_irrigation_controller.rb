@@ -1,0 +1,2 @@
+class LandscapingIrrigationController < ApplicationController
+end

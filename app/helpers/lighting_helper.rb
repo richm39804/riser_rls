@@ -1,0 +1,2 @@
+module LightingHelper
+end

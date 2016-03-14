@@ -1,0 +1,2 @@
+class AudioVisualController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class HvacPostController < ApplicationController
+end

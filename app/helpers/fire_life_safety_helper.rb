@@ -1,0 +1,2 @@
+module FireLifeSafetyHelper
+end

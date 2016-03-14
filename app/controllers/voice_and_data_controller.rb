@@ -1,0 +1,2 @@
+class VoiceAndDataController < ApplicationController
+end

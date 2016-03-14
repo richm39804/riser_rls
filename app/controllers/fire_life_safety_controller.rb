@@ -1,0 +1,2 @@
+class FireLifeSafetyController < ApplicationController
+end
